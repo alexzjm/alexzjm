@@ -18,7 +18,7 @@
 I focus on:
 - Applied ML & automation (agents, vision, LLM workflows)
 - Full-stack development with clean design & robust backend logic
-- Systems programming & hardware integration when needed
+- Systems programming & hardware integration
 
 ---
 
